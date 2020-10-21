@@ -1,3 +1,2 @@
 # aulas_ImersaoDados
-Aulas - Imersão de Dados - Alura
-10/2020
+Aulas - Imersão de Dados - Alura - 10/2020
