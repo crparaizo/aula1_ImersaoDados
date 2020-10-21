@@ -1,2 +1,2 @@
-# aula1_ImersaoDados
-Aula 1 - Imersão de Dados - Alura
+# aulas_ImersaoDados
+Aulas - Imersão de Dados - Alura
